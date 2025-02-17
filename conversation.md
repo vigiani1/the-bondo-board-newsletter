@@ -1,0 +1,1 @@
+Building a full-stack print broker web app with Shopify, Etsy, WooCommerce, and WordPress integrations, featuring a design studio and order processing.
